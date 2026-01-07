@@ -9,12 +9,14 @@ I'll be cataloging my solutions from:
 - **LeetCode**
 - **Codeforces**
 - **HackerRank**
-- and more!
+- and more Insh'Allah !!
 
 ## Structure
 Each problem has its own home:
 - `README.md`: The problem description and constraints.
 - `solution.py`: My implementation in Python.
 - `Solution.java`: My implementation in Java.
+
+I will try to learn various languages and then implement the solutions here. 
 
 Happy coding! 
