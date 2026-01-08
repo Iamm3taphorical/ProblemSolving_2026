@@ -17,6 +17,19 @@ Each problem has its own home:
 - `solution.py`: My implementation in Python.
 - `Solution.java`: My implementation in Java.
 
-I will try to learn various languages and then implement the solutions here. 
+I will try to learn various languages and then implement the solutions here.
 
-Happy coding! 
+Happy coding! 🚀
+
+---
+
+## Auto-Sync
+This repository includes a script to automatically push your changes to GitHub every 30 seconds.
+
+### How to use:
+1. Open your terminal in this folder.
+2. Run the start script:
+   ```bash
+   ./start_sync.sh
+   ```
+3. The script will run in the background. You can check the logs in `autosync.log`.
