@@ -20,7 +20,6 @@ class Solution {
                 }
             }
 
-            // Largest Rectangle in Histogram logic
             maxArea = Math.max(maxArea, largestRectangleArea(heights));
         }
 
