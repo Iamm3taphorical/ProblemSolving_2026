@@ -14,8 +14,6 @@ class Solution:
                     heights[c] += 1
                 else:
                     heights[c] = 0
-            
-            # Largest Rectangle in Histogram logic
             stack = []
             for i in range(cols + 1):
                 curr_height = heights[i] if i < cols else 0
